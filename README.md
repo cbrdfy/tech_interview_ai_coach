@@ -1,9 +1,9 @@
-### AI interview coach
+# AI interview coach
 
 To run locally:
-# Backend
+### Backend
 pip install fastapi uvicorn openai
 uvicorn main:app 
 
-# Frontend
+### Frontend
 npm run dev
